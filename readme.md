@@ -13,7 +13,9 @@ Ejecutar el jar peliculas-0.0.1-SNAPSHOT.jar con java 17.
 Get: http://localhost:8080/api/pelicula?nombre={nombre}
 
 Basic Authentication.
+
 Username = user
+
 Password = pass
 
 Consulta películas por su nombre. El parámetro {nombre} debe ser reemplazado con el nombre de la película que se desea buscar.
